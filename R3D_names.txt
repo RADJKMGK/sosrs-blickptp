@@ -1,5 +1,3 @@
--- Dumped By Dex Utility [.gg/2Shh6sVWNa]
-
 _call0; getfenv() -- Ran
 _call1; read: Players.LocalPlayer -- Ran
 _call2; Players.R3D:WaitForChild("PlayerGui").Name = "PlayerGui" -- Ran
@@ -1906,5 +1904,3 @@ _call7653; TweenInfo.new(0.28, Enum.EasingStyle.Quart, Enum.EasingDirection.Out)
 _call7654; TweenService:Create(Frame14, TweenInfo.new(0.28, Enum.EasingStyle.Quart, Enum.EasingDirection.Out), { Size = UDim2.new(0, 620, 0, 400) }) -- Ran
 _call7655; local Tween8 = TweenService:Create(Frame14, TweenInfo.new(0.28, Enum.EasingStyle.Quart, Enum.EasingDirection.Out), { Size = UDim2.new(0, 620, 0, 400) }) -- Ran
 _call7656; Tween8:Play() -- Ran
-
--- Dex Environment Log End
