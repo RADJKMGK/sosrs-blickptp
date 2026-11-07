@@ -1,4 +1,4 @@
--- Dumped By Dex Utility [.gg/2Shh6sVWNa]
+
 
 _call0; Variables Logged -- Ran
 _call1; Client = nil -- Ran
@@ -4148,4 +4148,3 @@ workspace.AceClutch_X:FindFirstChild("HumanoidRootPart")
 CFrame.Angles(0, 0.6108652381980153, 0)
 end) -- Event Bound -- Ran
 
--- Dex Environment Log End
